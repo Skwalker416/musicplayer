@@ -1,0 +1,38 @@
+[{
+
+        "title": "ዘለል ዘለል",
+        "text": "አረጋሀኝ ወራሽ",
+        "img": "assets/images/aregahegn.png",
+        "audio": "https://amharicmusic.net/assets/amharicmusic/AregahegnWorash-EsitZelelZelel.mp3"
+    },
+    {
+
+        "title": "እምባየ",
+        "text": "ኩኩ ሰብስቤ",
+        "img": "assets/images/kuku.jpg",
+        "audio": "https://amharicmusic.net/assets/amharicmusic/submitedbyruth1.mp3"
+    },
+    {
+
+        "title": "ኢትዮፕያ",
+        "text": "ቴድሮስ ካሳሁን",
+        "img": "assets/images/afro.jpg",
+        "audio": "https://amharicmusic.net/assets/amharicmusic/Teddy%20Afro%20-%20Ethiopia.mp3"
+
+    },
+    {
+
+        "title": "ጥሯት ሊሸልማት",
+        "text": "ነዋይ ደበበ",
+        "img": "assets/images/neway2.jpg",
+        "audio": "https://amharicmusic.net/assets/amharicmusic/neway.mp3"
+
+    },
+    {
+        "rating": "4.5",
+        "title": "ገለል በይ",
+        "text": "ጸጋየ እሸቱ",
+        "img": "assets/images/tsegaye.png",
+        "audio": "https://amharicmusic.net/assets/amharicmusic/TsegayeEshete-Gellelbey.mp3"
+    }
+]

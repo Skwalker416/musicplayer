@@ -1,0 +1,37 @@
+[{
+        "rating": "4.5",
+        "title": "አካል አይንሽን",
+        "text": "ጥላሁን ገሰሰ",
+        "img": "assets/images/tilahun.jpg",
+        "audio": "https://amharicmusic.net/assets/amharicmusic/TilahunGessesse-AkalAynishin.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title": "ደራ",
+        "text": "መሃሙድ አህመድ",
+        "img": "assets/images/mahmud.jpg",
+        "audio": "https://amharicmusic.net/assets/amharicmusic/Getish%20Mamo%20-%20Enkebaber.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title": "ጨዋ",
+        "text": "አስቴር አወቀ",
+        "img": "assets/images/aster.jpg",
+        "audio": "https://cdn.fakaza2018.co/wp-content/uploads/2021/02/Aster_Aweke_-_Chewa.mp3"
+
+    },
+    {
+        "rating": "4.5",
+        "title": "አልቦ",
+        "text": "ቴድሮስ ታደሰ",
+        "img": "assets/images/teddy.jpg",
+        "audio": "https://amharicmusic.net/assets/amharicmusic/Tewodros-Tadesse-Albo.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title": "ጉድ ፈላ",
+        "text": "እጅጋየው ሽባባው",
+        "img": "assets/images/gig.jpeg",
+        "audio": "https://amharicmusic.net/assets/amharicmusic/Ejigayehu-Shibabaw-Gud-Fella.mp3"
+    }
+]
